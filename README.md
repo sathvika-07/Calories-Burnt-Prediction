@@ -1,5 +1,4 @@
 # Calories-Burnt-Prediction
-Sure, here's a breakdown of your AI project for predicting calories burned during exercise in 350 words:
 
 1. **Introduction**:
    - Begin by introducing the significance of understanding calorie expenditure during exercise for fitness enthusiasts and individuals aiming for weight management.
